@@ -1,6 +1,7 @@
 # لیست دانلودها
 
 - [&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H](./%26ved%3D2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE%26usg%3DAOvVaw2cJkTp3HfNnvPZWHcciE8H)
+- [_hl=en](./_hl%3Den)
 
 ---
 

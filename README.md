@@ -112,11 +112,6 @@ https://ble.ir/UDLbot
 
 ---
 
-## فایل های دانلود شده
-
-- [&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H](https://github.com/renjfake-afk/All-download/tree/main/downloads/&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H)
-
----
 
 <!-- AVASAM_HELP -->
 
@@ -127,3 +122,12 @@ https://ble.ir/UDLbot
 ---
 
 طراحی شده توسط [آواسام](https://avasam.ir) 💚
+
+---
+
+## فایل های دانلود شده
+
+- [&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H](https://github.com/renjfake-afk/All-download/tree/main/downloads/&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H)
+- [_hl=en](https://github.com/renjfake-afk/All-download/tree/main/downloads/_hl=en)
+
+---
