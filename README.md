@@ -109,3 +109,21 @@ https://ble.ir/UDLbot
 - وب سایت : avasam.ir 
 
 
+
+---
+
+## فایل های دانلود شده
+
+- [&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H](https://github.com/renjfake-afk/All-download/tree/main/downloads/&ved=2ahUKEwjBqMm_5eOUAxURg_0HHQJ4KV4Qo7QBegQIDxAE&usg=AOvVaw2cJkTp3HfNnvPZWHcciE8H)
+
+---
+
+<!-- AVASAM_HELP -->
+
+## 📦 دانلود همه فایل ها یکجا
+
+**[⬇️ دانلود کل مخزن به صورت ZIP](https://github.com/renjfake-afk/All-download/archive/refs/heads/main.zip)**
+
+---
+
+طراحی شده توسط [آواسام](https://avasam.ir) 💚
